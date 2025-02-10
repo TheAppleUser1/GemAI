@@ -27,4 +27,5 @@ You need a few things to get started.
 
 ### My Discord: ilikeappletoomuch  My X: https://x.com/TheAppleUser_ 
 thanks for using GemAI.
+wanna make your own? https://github.com/Apple4787Microbitter/GemAI/blob/main/For%20those%20who%20want%20to%20edit.md
 
